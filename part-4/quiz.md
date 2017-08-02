@@ -31,7 +31,7 @@ $ cd foo
 $ touch bar
 => Make a new file called bar
 $ pwd
-=> print the current working directory
+=> /Users/Steve/foo
 
 
 How do you set an environment variable in your shell?
