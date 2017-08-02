@@ -35,6 +35,9 @@ $ pwd
 
 
 How do you set an environment variable in your shell?
+=> VARNAME="variable" for example bye="goodbye and then call the variable with echo $bye
+
+
 
 What keyboard shortcut do you use to split the screen in your editor?
 =>command+shift+p and type "split"
